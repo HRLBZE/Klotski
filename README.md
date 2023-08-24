@@ -1,2 +1,0 @@
-# Klotski
-Source code
